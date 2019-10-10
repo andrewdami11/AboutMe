@@ -23,10 +23,12 @@
         style="@style/NameStyle"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:background="@color/colorAccent"
         android:ems="10"
-        android:padding="@dimen/underline_padding"
         android:hint="@string/what_is_your_nickname"
         android:inputType="textPersonName"
+        android:padding="@dimen/underline_padding"
+        android:paddingBottom="@dimen/small_padding"
         android:textAlignment="center" />
 
     <Button
@@ -44,9 +46,9 @@
         style="@style/NameStyle"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:text=""
         android:textAlignment="center"
-        android:visibility="gone"
-        android:text=""/>
+        android:visibility="gone" />
 
     <ImageView
         android:id="@+id/profile_pic"
