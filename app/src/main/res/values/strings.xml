@@ -2,8 +2,8 @@
     <string name="app_name">AboutMe</string>
     <string name="name">Andrew Ajube</string>
     <string name="yellow_star">Yellow star</string>
-    <string name="bio">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nulla facilisi cras fermentum odio. Adipiscing at in tellus integer. Augue interdum velit euismod in pellentesque massa. Mi eget mauris pharetra et ultrices neque ornare aenean euismod. Sed euismod nisi porta lorem mollis aliquam ut porttitor leo. Diam vel quam elementum pulvinar etiam non quam lacus suspendisse. Faucibus nisl tincidunt eget nullam non. Ut lectus arcu bibendum at varius vel pharetra vel turpis. Adipiscing elit pellentesque habitant morbi tristique. Proin nibh nisl condimentum id venenatis a condimentum vitae sapien. Commodo sed egestas egestas fringilla phasellus faucibus. Posuere morbi leo urna molestie at. Mauris in aliquam sem fringilla ut morbi tincidunt augue. Donec pretium vulputate sapien nec sagittis aliquam malesuada bibendum. Pharetra diam sit amet nisl. At consectetur lorem donec massa sapien faucibus et molestie. Nam libero justo laoreet sit amet cursus sit amet. Aliquet bibendum enim facilisis gravida neque. Nam at lectus urna duis convallis.</string>
+    <string name="bio">Andrew is a product developer, with 2+ years commercial experience in the tech industry. He is mostly comfortable with backend and mobile work, with an interest for frontend too. Andrew is always open to learning new languages, primarily uses Agile methodologies when carrying out his work, and has plenty of experience interacting with clients in a professional manner. Outside of work, Andrew is a 400m Hurdler, trains 6 days a week and enjoys the challenges that come with Athletics training, travelling abroad for competitions and representing his club. </string>
     <string name="profile_pic">Profile picture</string>
-    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="what_is_your_AND_title">What is your AND title?</string>
     <string name="done">Done</string>
 </resources>

@@ -23,9 +23,9 @@
         style="@style/NameStyle"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@color/colorAccent"
+        android:background="@color/light_green"
         android:ems="10"
-        android:hint="@string/what_is_your_nickname"
+        android:hint="@string/what_is_your_AND_title"
         android:inputType="textPersonName"
         android:padding="@dimen/underline_padding"
         android:paddingBottom="@dimen/small_padding"
@@ -55,8 +55,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:contentDescription="@string/profile_pic"
-        app:srcCompat="@mipmap/ic_profile_pic_foreground"
-        tools:srcCompat="@tools:sample/avatars" />
+        app:srcCompat="@mipmap/ic_profile_pic_foreground" />
 
     <ScrollView
         android:id="@+id/bio_scroll"
@@ -69,7 +68,7 @@
             android:orientation="vertical">
 
             <ImageView
-                android:id="@+id/star_image"
+                android:id="@+id/pencil_image"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:contentDescription="@string/yellow_star"
